@@ -1,6 +1,6 @@
 {
   "mappings": [
-    "/content/sol-sc-boilerplate-xwalk/:/",
-    "/content/sol-sc-boilerplate-xwalk/configuration:/.helix/config.json"
+    "/content/AEM-SourceofTruth/:/",
+    "/content/AEM-SourceofTruth/configuration:/.helix/config.json"
   ]
 }
