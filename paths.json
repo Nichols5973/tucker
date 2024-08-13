@@ -1,8 +1,8 @@
 {
   "mappings": [
-    "/content/AEMTruth/:/",
-    "/content/AEMTruth/placeholders:/placeholders.json",
+    "/content/AEMDemo/:/",
+    "/content/AEMDemo/placeholders:/placeholders.json",
     "/graphql:/graphql",
-    "/content/AEMTruth.resource/icons/:/icons/"
+    "/content/AEMDemo.resource/icons/:/icons/"
   ]
 }
