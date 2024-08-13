@@ -1,6 +1,8 @@
 {
   "mappings": [
     "/content/AEMTruth/:/",
-    "/content/AEMTruth/configuration:/.helix/config.json"
+    "/content/AEMTruth/placeholders:/placeholders.json",
+    "/graphql:/graphql",
+    "/content/AEMTruth.resource/icons/:/icons/"
   ]
 }
